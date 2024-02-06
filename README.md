@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavdeshmukh12&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavdeshmukh12" /> </p>
 
-- 🌱 I’m currently learning **React, SpringBoot**
+- 🌱 I’m currently learning **Mern**
 
-- 💬 Ask me about **Java, React**
+- 💬 Ask me about **Mern, Java**
 
 - 📫 How to reach me **deshmukhvaibhav499@gmail.com**
 
@@ -18,6 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/vaibhav-deshmukh-30428622a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-deshmukh-30428622a" height="30" width="40" /></a>
 <a href="https://instagram.com/va1bhav_deshmukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="va1bhav_deshmukh" height="30" width="40" /></a>
+<a href="https://twitter.com/https://x.com/va1bhav_02?t=62fdhd8cwfbi7aquohkjcw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/va1bhav_02?t=62fdhd8cwfbi7aquohkjcw&s=09" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
