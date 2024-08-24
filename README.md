@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavdeshmukh12&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavdeshmukh12" /> </p>
 
-- 🌱 I’m currently learning **Mern**
-
 - 💬 Ask me about **Mern, Java**
 
 - 📫 How to reach me **deshmukhvaibhav499@gmail.com**
