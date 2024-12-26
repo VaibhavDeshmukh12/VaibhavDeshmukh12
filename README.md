@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavdeshmukh12&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavdeshmukh12" /> </p>
 
-- 💬 Ask me about **Mern, Java**
+- 💬 Ask me about **Java Fullstack, React**
 
 - 📫 How to reach me **deshmukhvaibhav499@gmail.com**
 
