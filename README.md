@@ -2,11 +2,27 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavdeshmukh12&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavdeshmukh12" /> </p>
-🔭 I'm currently learning: Next.js & Tailwind CSS<br>
-💬 Ask me about: Java & MERN Stack<br>
-🌱 Checkout my Portfolio: <a href="https://my-portfolio-gamma-seven-50.vercel.app/" target="_blank">My Portfolio</a><br>
-📬 Reach me Here: deshmukhvaibhav499@gmail.com<br>
-📄 My Resume: <a href="https://drive.google.com/file/d/1XkYkVKkaYCZjVIReO2RuFZTzecn1yW83/view?usp=sharing" target="_blank">My Resume</a>
+<p>🔭 <strong>Currently Learning:</strong> <span style="color: #38bdf8;">Next.js & Tailwind CSS</span></p>
+<p>💬 <strong>Ask me about:</strong> <span style="color: #a855f7;">Java & MERN Stack</span></p>
+
+<p>🌱 <strong>Checkout my Portfolio:</strong> 
+  <a href="https://my-portfolio-gamma-seven-50.vercel.app/" target="_blank" style="color: #4ade80; text-decoration: none; font-weight: bold;">
+    My Portfolio
+  </a>
+</p>
+
+<p>📬 <strong>Reach me Here:</strong> 
+  <a href="mailto:deshmukhvaibhav499@gmail.com" style="color: #f87171; text-decoration: none;">
+    deshmukhvaibhav499@gmail.com
+  </a>
+</p>
+
+<p>📄 <strong>My Resume:</strong> 
+  <a href="https://drive.google.com/file/d/1XkYkVKkaYCZjVIReO2RuFZTzecn1yW83/view?usp=sharing" target="_blank" style="color: #fb923c; text-decoration: none; font-weight: bold;">
+    View Resume
+  </a>
+</p>
+
 
 
 ## 🌐 Socials:
