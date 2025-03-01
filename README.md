@@ -2,9 +2,12 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavdeshmukh12&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavdeshmukh12" /> </p>
-# 💫 About Me:
-🔭 I'm currently learning : NextJS & Tailwaind CSS<br>💬  Ask me about : Java & MERN Stack<br>🌱 Checkout my Portfolio : [Portfolio](https://my-portfolio-gamma-seven-50.vercel.app/)
- <br>📬 Reach me Here : deshmukhvaibhav499@gmail.com<br>📄 My Resume : [Resume](https://drive.google.com/file/d/1XkYkVKkaYCZjVIReO2RuFZTzecn1yW83/view?usp=sharing)
+🔭 I'm currently learning: Next.js & Tailwind CSS<br>
+💬 Ask me about: Java & MERN Stack<br>
+🌱 Checkout my Portfolio: <a href="https://my-portfolio-gamma-seven-50.vercel.app/" target="_blank">My Portfolio</a><br>
+📬 Reach me Here: deshmukhvaibhav499@gmail.com<br>
+📄 My Resume: <a href="https://drive.google.com/file/d/1XkYkVKkaYCZjVIReO2RuFZTzecn1yW83/view?usp=sharing" target="_blank">My Resume</a>
+
 
 ## 🌐 Socials:
 [![Gmail Badge](https://img.shields.io/badge/-mail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:deshmukhvaibhav499@gmail.com "Connect via Email")
