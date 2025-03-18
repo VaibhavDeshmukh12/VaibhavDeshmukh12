@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavdeshmukh12&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavdeshmukh12" /> </p>
-<p>🔭 <strong>Currently Learning:</strong> <span style="color: #38bdf8;">Next.js & Tailwind CSS</span></p>
+<p>🔭 <strong>Currently Learning:</strong> <span style="color: #38bdf8;">Spring Boot</span></p>
 <p>💬 <strong>Ask me about:</strong> <span style="color: #a855f7;">Java & MERN Stack</span></p>
 
 <p>🌱 <strong>Checkout my Portfolio:</strong> 
